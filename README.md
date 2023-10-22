@@ -1,2 +1,2 @@
 # Javascript-assgn01
-https://app.netlify.com/sites/js-assignmnet01-141023
+https://js-assignmnet01-141023.netlify.app/
